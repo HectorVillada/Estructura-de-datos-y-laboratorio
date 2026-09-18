@@ -1,0 +1,3 @@
+Set-Location D:\Dell\HistorialAcademico
+javac ActualizarYMostrarFila.java
+java ActualizarYMostrarFila
